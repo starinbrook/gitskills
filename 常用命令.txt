@@ -1,7 +1,7 @@
+ï»¿
+0ã€git status
 
-0¡¢git status
-
-1¡¢git clone git@github.com:starinbrook/gitskills.git
-2¡¢git add
-3¡¢git commit
-4¡¢git push
+1ã€git clone git@github.com:starinbrook/gitskills.git
+2ã€git add
+3ã€git commit
+4ã€git push

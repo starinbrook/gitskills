@@ -7,4 +7,7 @@
 3、git commit
 4、git push
 
+
 获取远程修改到本地
+
+git pull

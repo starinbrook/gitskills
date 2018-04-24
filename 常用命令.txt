@@ -10,4 +10,5 @@
 
 获取远程修改到本地
 
+git fetch
 git pull

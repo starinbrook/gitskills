@@ -28,3 +28,11 @@
 3、git pull  会将本地库更新至远程库的最新状态
 4、git status
 
+
+#查看git帮助，命令列表
+ git --help
+ 
+#查看git某个具体命令的帮助文档
+ git --help command
+ 
+ 
